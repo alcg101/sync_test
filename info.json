@@ -1,0 +1,15 @@
+{
+    "firstName": "David",
+    "lastName": "Davidson",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "987",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "12345"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "987654321" }
+    ]
+}
