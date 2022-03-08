@@ -2,7 +2,7 @@
     "firstName": "David",
     "lastName": "Davidson",
     "gender": "man",
-    "age": 30,
+    "age": 20,
     "address": {
         "streetAddress": "987",
         "city": "San Jone",
